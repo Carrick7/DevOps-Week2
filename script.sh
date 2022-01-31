@@ -1,5 +1,3 @@
 #!/bin/bash
-touch 1_1.txt 
-touch 1_2.txt 
-touch 1_3.txt
-
+rm -r fol_1/
+rm -r fol_2/
